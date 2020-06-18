@@ -15,7 +15,7 @@ platform : Windows, Linux, Raspberry pi
 If you need to use lazarus you can use ct2laz convert to Lazarus
 
 <hr>
-<img src="https://i.postimg.cc/hvydfZRf/Linear-Gauge.png" style="max-width:100%;"/>
+<img src="https://i.postimg.cc/NMLC4NZj/donut.png" style="max-width:100%;"/>
 
 <hr>
 
