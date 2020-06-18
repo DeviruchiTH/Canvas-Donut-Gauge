@@ -1,4 +1,4 @@
-# Example Donut Gauge Component for Lazarus, CodeTyphon
+# Donut Gauge Component Example for Lazarus, CodeTyphon
 
 <a href="https://paypal.me/deviruchidonate">[ Donate ]</a>
 
